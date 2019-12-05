@@ -9,3 +9,5 @@ I made this because my Touch Bar is dead.
 Tip: Option-click to show menu.
 
 <img src="screenshot.png" width="238.5px">
+
+[Download](https://github.com/RayPS/Brightness-Menubar-App/releases)
